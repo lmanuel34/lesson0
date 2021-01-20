@@ -1,6 +1,7 @@
 {
   
   "hosting": {
+    "site": "lesson0-lmanuel",
     "public": "public",
     "ignore": [
       "firebase.json",
